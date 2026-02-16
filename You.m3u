@@ -1,0 +1,597 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png"group-title="DIGITAL TV",3HD
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png"group-title="DIGITAL TV",CH5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png"group-title="DIGITAL TV",7HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png"group-title="DIGITAL TV",McotHD
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png"group-title="DIGITAL TV",Mono29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Npsb1kD/152-1522651-true-logo-png-removebg-preview.png"group-title="DIGITAL TV", TRUE Thai Film
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคกลาง
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคเหนือ
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคอีสาน
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png"group-title="DIGITAL TV",NBT-ภาคใต้
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png"group-title="DIGITAL TV",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHskWtw1/Thairath-TV32-svg.png"group-title="DIGITAL TV",Thairath TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png"group-title="DIGITAL TV",PPTV
+https://ww.dooballfree.vip/live/pptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png"group-title="DIGITAL TV",Amarin TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png"group-title="DIGITAL TV",GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png"group-title="DIGITAL TV",ONE31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png"group-title="DIGITAL TV",TopNews
+https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70L1xG0/IMG-4003.png"group-title="DIGITAL TV",JKN18
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png"group-title="DIGITAL TV",Workpoint
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png"group-title="DIGITAL TV",CH8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png"group-title="DIGITAL TV",TNN16
+https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png"group-title="DIGITAL TV",Nation
+https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png"group-title="DIGITAL TV",True4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg"group-title="DIGITAL TV",ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png"group-title="DIGITAL TV",PPTV (Web)
+https://www.pptvhd36.com/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png"group-title="DIGITAL TV",NEWS 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png"group-title="DIGITAL TV",Cable 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw"group-title="DIGITAL TV",Channel8thailand
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png"group-title="DIGITAL TV",PoliceTV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",Mono29
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBOHits
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbohits.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBOSignature
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbosignature.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBOFamily
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbofamily.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",trueTHAIFILM
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",trueFILM1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",trueMOVIEHITS
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits1.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",trueFILMASIA
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",trueSeries
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",trueASIANMORE
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",Cinemax
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/cinemax.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO
+http://1tv41.icu:8080/30796360/97446561/9264
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",US HBO 2 (A)
+http://1tv41.icu:8080/30796360/97446561/9816
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png",US HBO Comedy (East)
+http://1tv41.icu:8080/30796360/97446561/17773
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",US HBO Family (East)
+http://1tv41.icu:8080/30796360/97446561/17772
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://logodix.com/logo/1111252.png",US HBO SIGNATURE (East)
+http://1tv41.icu:8080/30796360/97446561/9266
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",US HBO Zone (East)
+http://1tv41.icu:8080/30796360/97446561/9265
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Movies1
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Movies2
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Movies3
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Series1
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Series2
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 tvg-name="1" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE", Channel1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
+#EXTINF:-1 tvg-name="2" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
+#EXTINF:-1 tvg-name="3" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel3
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 tvg-name="4" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel4
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 tvg-name="5" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel5
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
+#EXTINF:-1 tvg-name="6" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel6
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 tvg-name="7" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel7
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+#EXTINF:-1 tvg-name="8" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel8
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
+#EXTINF:-1 tvg-name="MONOMAX1" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX1
+#EXTVLCOPT:http-referrer=https://github.com
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
+#EXTINF:-1 tvg-name="MONOMAX2" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8
+#EXTINF:-1 tvg-name="MONOMAX3" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX3
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX3.m3u8
+#EXTINF:-1 tvg-name="MONOMAX4" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX4
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX4.m3u8
+#EXTINF:-1 tvg-name="MONOMAX5" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX5
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX5.m3u8
+#EXTINF:-1 tvg-name="MONOMAX6" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX6
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX6.m3u8
+#EXTINF:-1 tvg-name="MONOMAX7" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX7
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX7.m3u8
+#EXTINF:-1 tvg-name="MONOMAX8" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8
+#EXTINF:-1 tvg-name="MONOMAX2" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TRUE Football 3
+https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
+#EXTINF:-1 tvg-name="TrueSportHD" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png" group-title="Sports",TrueSportHD
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8
+#EXTINF:-1 tvg-name="TrueSportHD2" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png" group-title="Sports",TrueSportHD2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport2.m3u8
+#EXTINF:-1 tvg-name="TrueSportHD3" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png" group-title="Sports",TrueSportHD3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport3.m3u8
+#EXTINF:-1 tvg-name="TrueSport5" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png" group-title="Sports",TrueSport5
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport5.m3u8
+#EXTINF:-1 tvg-name="TrueSport7" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png" group-title="Sports",TrueSport7
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport7.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports1
+http://119.59.118.168/live/ch9/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports1-A
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776200&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports1-B
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776197&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports1-C
+https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports1-D
+https://dookeela4.live/live-tv/tsp1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports2
+http://119.59.118.168/live/ch10/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports2-A
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776192&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports2-B
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776198&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports2-C
+https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports2-D
+https://dookeela4.live/live-tv/tsp2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports3
+http://119.59.118.168/live/ch11/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports3-A
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776202&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports3-B
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776199&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports3-C
+https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports3-D
+https://dookeela4.live/live-tv/tsp3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports4
+http://119.59.118.168/live/ch12/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports4-A
+https://dookeela4.live/live-tv/tsp4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports4-B
+https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports5
+http://119.59.118.168/live/ch13/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports5-A
+https://dookeela4.live/live-tv/tsp5
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports5-B
+https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports5-C
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115535&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports5-D
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776193&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports7
+http://119.59.118.168/live/ch14/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports7-A
+https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports7-B
+https://dookeela4.live/live-tv/tsp7
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sports7-C
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115799&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV
+http://119.59.118.168/live/ch18/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV-A
+https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV-B
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776066&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV-C
+https://dookeela4.live/live-tv/spotv
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV2
+http://119.59.118.168/live/ch19/Ultraman008/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV2-A
+https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV2-B
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776067&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV2-C
+https://dookeela4.live/live-tv/spotv2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",T-Sports-A
+https://aisplay.ais.co.th/portal/live?vid=627a27b26dbfe345cfc8a27f
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",T-Sports-B
+https://dookeela4.live/live-tv/tsports7
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Golf Channel
+https://dookeela4.live/live-tv/golfchannel
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Tennis
+https://dookeela4.live/live-tv/truetennis
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Astro Football
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775978&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Astro Premier1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Astro Premier2
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775976&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Astro Grandstand
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775977&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",HUB Premier1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264396&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",HUB Premier2
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264397&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",HUB Premier3
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264398&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",HUB Premier4
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264399&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",HUB Premier5
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264400&extension=ts
+EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports EPL 1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=190956&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports EPL 2
+http://chunkymunky.site:80/live/jsYSS7uA/fZ7Fgq8/019583dd-14c7-4dc9-acc2-7a045e040ed3.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports EPL 3
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/331
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports Football 1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138135&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports Football 2
+http://chunkymunky.site/live/jsYSS7uA/fZ7Fgq8/21e8bbcb-e210-4dd4-a2fe-c0fccbf3b2ed.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports Football 3
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/6205
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Main Event 1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138134&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Main Event 2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10829
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Main Event 3
+http://chunkymunky.site:80/live/jsYSS7uA/fZ7Fgq8/8d32c71e-a34f-4e7a-b3e6-6a8fd6799ed5.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports F1 1
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10832
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports F1 2
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138141&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports F1 3
+https://dookeela4.live/live-tv/skysportsf1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports MotoGP 1
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=287242&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports MotoGP 2
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=287242&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports Golf 1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138139&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Sky Sports Golf 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/66873
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 1-1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138145&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 1-2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=30567&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 2
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138146&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 2-2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=30566&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 3-1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138147&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 3-2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=30565&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 4-1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138148&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TNT Sports 4-2
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=1019935&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Fox Sports 1-1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Fox Sports 1-2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/553
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Fox Sports 1-3
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11149&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Fox Sports 2-1
+https://fl1.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Fox Sports 2-2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/554
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Fox Sports 2-3
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11148&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",ESPN1-1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=174655&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",ESPN1-2
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=11203&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",ESPN1-3
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11203&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",ESPN2-1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=174644&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",ESPN2-2
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A2:29:95&stream=11204&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",ESPN2-3
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=11204&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",ESPNU
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=174657&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Eurosport
+https://dookeela4.live/live-tv/eurosport
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Eurosport1-1
+https://dookeela4.live/live-tv/eurosport1es
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Eurosport1-2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/1812
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Eurosport1-3
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1082110&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Eurosport2
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1082113&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPORT TV1
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94850
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPORT TV2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94849
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPORT TV3
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94848
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPORT TV4
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94847
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPORT TV5
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/94846
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NBA TV-1
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NBA TV-2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/533
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NBA TV-3
+https://dookeela4.live/live-tv/nba
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NBA TV-4
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/45431
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NFL-1
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:46:E4:1E&stream=2131378&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NFL-2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/505
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NFL-3
+https://dookeela4.live/live-tv/nfl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",MLB
+https://dookeela4.live/live-tv/mlb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",WWE-1
+http://49.0.64.96:8007/TOPFIGHT
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",WWE-2
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",MUTV
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10854
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",LFC TV
+#EXTVLCOPT:http-referrer=http://localhost/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; ASUS_Z01QD Build/PQ3A.190705.12150957; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36 Vinebre
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=54897&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png" group-title="Radio",01 COOL fahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/efm.png" group-title="Radio",02 EFM
+https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/greenwave.png" group-title="Radio",03 GREEN WAVE
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/met107.png" group-title="Radio",04 MET 107
+https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w103872406.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/active99fm.png" group-title="Radio",05 Active FM99
+https://uiu6f1j7.mcot.net/FM99/fm99.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/965fm.png" group-title="Radio",06 FM96.5
+https://e4hq2o44.mcot.net/FM965/fm965.stream_aac/chunklist_w1982010370.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png" group-title="Radio",07 News Network
+https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/mellow975.png" group-title="Radio",08 Mellow 97.5
+https://tkx5l99p.mcot.net/Mellow/fm975.stream_aac/chunklist_w488259280.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm95.png" group-title="Radio",09 FM95
+https://t24d2ljc.mcot.net/FM95/fm95.stream_aac/chunklist_w1826020205.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/flex10452.png" group-title="Radio",10 Flex 104.5
+https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/cityradio9025.png" group-title="Radio",11 City Radio 90.25
+https://media.onair.one:8200/1/;
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/js100.png" group-title="Radio",12 JS100
+https://djstreamsv1.hostpleng.cloud/4BsH
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm106family.png" group-title="Radio",13 FM106 ครอบครัวข่าว
+https://radio11.plathong.net/7138/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm91.png" group-title="Radio",14 สวพ. FM91
+https://www.fm91bkk.com:8900/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png" group-title="Radio",15 สวท. FM97
+https://cdn-th2.login.in.th/shoutcast/8610
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smartnews905.png" group-title="Radio",16 มิติข่าว 90.5
+http://www.smartbomb.co.th/streaming/audio_player.php?channel=ODYyNA==
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sunshine.png" group-title="Radio",17 Sunshine Radio
+https://cdn-th2.livestreaming.in.th/shoutcast/8030
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/94fmclubradio.png" group-title="Radio",18 94FMCLUB
+https://plus.onair.network:8130/94fmclub2
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/xfmnetwork.png" group-title="Radio",19 XFM Chiangmai
+https://radio12.plathong.net/7360/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/895pattaya.png" group-title="Radio",20 LIVE 89.5
+https://4118.radio4.thzhost.com/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/yesterday.png" group-title="Radio",21 Yesterday FM106.5
+https://4122.radio4.thzhost.com/;stream
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/mazzradio.png" group-title="Radio",22 MAZZ Radio FM97
+https://4096.radio2.thzhost.com/;stream
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile9525.png" group-title="Radio",23 Smile FM95.25
+https://radio12.plathong.net/8846/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile101.png" group-title="Radio",24 Smile ลูกทุ่ง FM101
+https://radio12.plathong.net/8612/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/wowradio.png" group-title="Radio",25 WOW RADIO ONLINE
+https://inter.wowradiohit.com/radio/8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/rukthailooktung.png" group-title="Radio",26 รักไทยลูกทุ่ง
+https://radio11.plathong.net/8896/;stream.mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sbt.png" group-title="Radio",27 ธรรมะหลวงตาตามหาบัว
+http://122.155.12.107/luangta/Siangdham-Radio-Live.html
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/request.png" group-title="Radio",28 เพลงสตริง
+https://cast.requestradio.in.th:810/;stream
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestlooktung.png" group-title="Radio",29 เพลงลูกทุ่ง
+https://cast.requestradio.in.th:820/;stream
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestlife.png" group-title="Radio",30 เพลงเพื่อชีวิต
+https://cast.requestradio.in.th:830/;stream
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestinter.png" group-title="Radio",31 เพลงสากล
+https://cast.requestradio.in.th:840/;stream
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/requestdance.png" group-title="Radio",32 เพลงแดนซ์
+https://cast.requestradio.in.th:850/;stream
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png" group-title="Radio",33 SukSon เพลงไทยสากล
+https://stream.pjcdn.com:9000/SuksonRadio
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png" group-title="Radio",34 SukSon เพลงสากล
+https://stream.pjcdn.com:8000/1;&type=mp3
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/sukson.png" group-title="Radio",35 SukSon เพลงลูกทุ่ง
+https://stream.pjcdn.com:8200/1;&type=mp3
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/08/47rrdQ6k9B-560x560.jpg" group-title="Radio",36 PASSION FM
+https://media.onair.one/8170/my/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/FM89LOPBURI-560x560.jpg" group-title="Radio",37 FM 89 I AM RADIO
+https://media.onair.one:8030/fm89
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/RADIOTH-895-560x560.jpg" group-title="Radio",38 FM 89.5 RADIO THAILAND
+https://radio-org-01-ott.prd.go.th/ska_fm89_50
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/linerichmessage-onair-media-g-560x560.jpg" group-title="Radio",39 FM 89.5 / FM 92 ดนตรีสีสัน
+https://media.onair.one:8170/radio.mp3
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/8975-10625-8975-560x560.jpg" group-title="Radio",40 FM 89.75
+https://media.onair.one/8010/8975/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/02/linerichmessage-492-560x560.jpg" group-title="Radio",41 FM 90.25 CITY RADIO
+https://link.cityradiopattaya.com/8200/1/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/09/RADIOTH-905-560x560.jpg" group-title="Radio",42 FM 90.5 RADIO THAILAND
+https://radio-org-01-ott.prd.go.th/ska_fm90_5
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/444489281_1018338006529927_3971246088966105095_n-560x560.jpg" group-title="Radio",43 FM 91 PATTAYA MUNDEE
+https://link.cityradiopattaya.com/8100/OBdirect/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/LOGO1040x1040-border-560x560.jpg" group-title="Radio",44 FM 92 WE LOVE
+https://plus.onair.network:8120/stream/2;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/274166638_4842453472489815_8662340256238586135_n-560x560.jpg" group-title="Radio",45 FM 93 LOVE RADIO
+https://media.onair.one:8090/onair
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/linerichmessage-560x560.jpg" group-title="Radio",46 FM 94 FMCLUB
+https://media.onair.one:8130/94fmclub
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/97jpeg.jpg" group-title="Radio",47 FM 97 TOURIST STATION
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:9006/live
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/FM98-YALA-560x560.jpg" group-title="Radio",48 FM 98 YALA
+https://a.hostpleng.cloud/9098/stream
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2026/01/10225-560x560.jpg" group-title="Radio",49 FM 98 Dongtan Beach
+https://media.onair.one:8030/98
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/fhasai-logo-560x560.png" group-title="Radio",50 FM 99.75 ฟ้าใสเรดิโอ
+https://media.onair.one/8030/9975/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/d26a29ccd8ab4c0c0e1590f4272ea9cb_full.png" group-title="Radio",51 JS100
+https://cdn-th2.livestreaming.in.th/shoutcast/8510
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/08/linerichmessage-101-560x560.jpg" group-title="Radio",52 FM 101 ลีลาลำปาง
+https://uk20freenew.listen2myradio.com/live.mp3?typeportmount=s1_39041
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/363359382_1024167925604080_901920639986926123_n-560x560.jpg" group-title="Radio",53 FM 106 วิทยุครอบครัวข่าว
+https://radio11.plathong.net/7138/;stream.mp3
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/03/AppleRadio-106-560x560.jpg" group-title="Radio",54 FM 106 APPLE RADIO
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:8340/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/8975-10625-10625-560x560.jpg" group-title="Radio",55 FM 106.25
+https://media.onair.one/8010/10625/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/420954825_895023462631325_2047824488494027012_n.jpg" group-title="Radio",56 FM 107.75 INDY FM
+https://media.onair.one:8010/STUINDY.mp3
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/348224348_251833727395701_7810294511084235077_n.png" group-title="Radio",57 FM 107.75 MCOT
+http://rstream.mcot.net:9022
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/VOA1-560x560.png" group-title="Radio",58 VOA1 The Hits
+https://stream.radiojar.com/zpd8p6fgq3quv
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/content_1_bg_sd_20240910_032824-560x540.jpg" group-title="Radio",59 PASSION AM
+https://media.onair.one:8170/am
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/sunshine-logo.jpg" group-title="Radio",60 SUNSHINE RADIO THAILAND
+https://cdn-th2.livestreaming.in.th/shoutcast/8030
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/tower-1.png" group-title="Radio",61 VOA Thai ข่าวสดสายตรงจาก วอชิงตัน
+https://stream.radiojar.com/7vpdu5as92quv
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/08/488248582_1301952425041915_7441289878781400160_n-560x560.jpg" group-title="Radio",62 FM 88 MHz วิทยุ ม.อ.หาดใหญ่
+https://media.onair.one:8120/stream/1/
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/01/347848119_1439908946771482_2961914427424320825_n-560x560.jpg" group-title="Radio",63 FM 107.25 MHz วิทยุ ม.อ.ปัตตานี
+https://plus.onair.network:8170/psup
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png" group-title="Radio",64 วิทยุ ม.ก. บางเขน
+http://radio.vpsthai.net:8042/
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png" group-title="Radio",65 วิทยุเพื่อการเกษตร
+https://cdn-th2.livestreaming.in.th/shoutcast/8145
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png" group-title="Radio",66 Surf Radio
+https://stream.surf.radio//surf1025
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/04/ThaiWeatherRadio-560x560.jpg" group-title="Radio",67. Thai Weather Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
+http://www.radio.tmd.go.th:8014/;stream.mp3
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/02/305561011_754459848848515_1540767025656647185_n-1-560x560.jpg" group-title="Radio",68. ดนตรีสีสัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:9102/;
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png" group-title="Radio",69. 95 TheSPOT FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
+https://audio-edge-jfbmv.sin.d.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/on-air-1-1.png" group-title="Radio",70. FM 91 TRAFFIC PRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
+https://www.fm91bkk.com:8900/;stream.mp3
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png" group-title="Radio",72. AM 1098 kHz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
+https://www.fm91bkk.com:9170/stream.mp3
+#EXTINF:-1 tvg-logo="https://onair.one/wp-content/uploads/2025/10/images-1.jpg" group-title="Radio",73. KU RADIO+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio1-1.gif",RADIO 73
+https://radio12.plathong.net/7346/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio1-2.gif",RADIO 74
+https://radio12.plathong.net/8660/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio1-3.gif",RADIO 75
+https://radio12.plathong.net/8648/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio2.gif",RADIO 76
+https://radio12.plathong.net/9912/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio3.gif",RADIO 77
+https://radio12.plathong.net/9924/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio3-1.gif",RADIO 78
+https://radio12.plathong.net/7354/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio4.gif",RADIO 79
+https://radio12.plathong.net/7356/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio4-1.gif",RADIO 80
+https://radio12.plathong.net/7358/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio5.gif",RADIO 81
+https://radio12.plathong.net/8704/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio5-1.gif",RADIO 82
+https://radio12.plathong.net/9918/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio6.gif",RADIO 83
+https://radio12.plathong.net/7350/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio6-1.gif",RADIO 84
+https://radio12.plathong.net/7352/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio7.gif",RADIO 85
+https://radio12.plathong.net/9914/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio8.gif",RADIO 86
+https://radio12.plathong.net/9916/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio9.gif",RADIO 87
+https://radio12.plathong.net/9936/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio9-1.gif",RADIO 88
+https://radio12.plathong.net/7348/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio10.gif",RADIO 89
+https://radio12.plathong.net/9920/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio11.gif",RADIO 90
+https://radio12.plathong.net/9922/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio12.gif",RADIO 91
+https://radio12.plathong.net/9926/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio14.gif",RADIO 92
+https://radio12.plathong.net/9932/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.voiceofnavy.com/imgs/radio15.gif",RADIO 93
+https://radio12.plathong.net/9934/;stream.mp3
