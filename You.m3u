@@ -59,6 +59,9 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png"group-title="DIGITAL TV",PoliceTV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",Mono29
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
@@ -116,6 +119,27 @@ http://49.0.64.96:8007/Cartoonumi
 http://49.0.64.96:8007/PING
 #EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0",Series2
 http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19ub-DTS73CFIjvSjIwRTIKYdhqwAWlk1XoEClNpRLe-moPNNl1zgVLKi&s=10",ASIA SERIES
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuMYAveaoyGctdvwldsn_dMtBsoiYvgced8E1vaEWqpDxxo5bLBa5FgY&s=10",universal
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU",Movie
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",true4U
+#EXTVLCOPT:http-referrer=https://iptv36.vercel.app/
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+
+
 #EXTINF:-1 tvg-name="1" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE", Channel1
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
@@ -140,6 +164,9 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTINF:-1 tvg-name="8" tvg-logo="https://i.postimg.cc/CLR7Y5JT/kk-Nkj-ZJo-Hbynd9JDPq-F2-removebg-preview.png" group-title="THAI LEAGUE",Channel8
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
+
+
+
 #EXTINF:-1 tvg-name="MONOMAX1" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX1
 #EXTVLCOPT:http-referrer=https://github.com
 https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8
@@ -167,6 +194,9 @@ https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8
 #EXTINF:-1 tvg-name="MONOMAX2" tvg-logo="https://i.postimg.cc/kgXjVCxZ/Screenshot-2569-0208-154054-removebg-preview.png" group-title="MONOMAX",MONOMAX2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",TRUE Football 3
 https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
 #EXTINF:-1 tvg-name="TrueSportHD" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png" group-title="Sports",TrueSportHD
@@ -404,6 +434,9 @@ http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10854
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=54897&extension=ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png" group-title="Radio",01 COOL fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/radio-channels/efm.png" group-title="Radio",02 EFM
