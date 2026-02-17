@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydGZjaGVmcXJzeW5xdjR4OGRxam1ucmJ0NDM3Zzh3YjllcHd5eDliMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xj7pA1R3K0f37K2Qhl/giphy.gif"group-title="IPTV",TEST1
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc0c3U0cmxsNHUwaW0weGYzaTAyazQ4Ym8xbTlpN2VkdGsyNjR3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v74tVCVV3dMsiuP2v/giphy.gif"group-title="IPTV",TEST2
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png"group-title="DIGITAL TV",3HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png"group-title="DIGITAL TV",CH5
