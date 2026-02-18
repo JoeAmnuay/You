@@ -294,14 +294,6 @@ https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776067&extension=ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",SPOTV2-C
 https://dookeela4.live/live-tv/spotv2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",T-Sports-A
-https://aisplay.ais.co.th/portal/live?vid=627a27b26dbfe345cfc8a27f
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",T-Sports-B
-https://dookeela4.live/live-tv/tsports7
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Golf Channel
-https://dookeela4.live/live-tv/golfchannel
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Tennis
-https://dookeela4.live/live-tv/truetennis
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Astro Football
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775978&extension=ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Astro Premier1
@@ -436,13 +428,13 @@ https://dookeela4.live/live-tv/mlb
 http://49.0.64.96:8007/TOPFIGHT
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",WWE-2
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",MUTV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",MUTV
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/10854
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",LFC TV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",LFC TV
 #EXTVLCOPT:http-referrer=http://localhost/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; ASUS_Z01QD Build/PQ3A.190705.12150957; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36 Vinebre
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=54897&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gkdwHktH/logo-sport-brand-font-png-favpng-v-UYVZq-Tieqa-Sxj6Ftaj-YYpv0y-removebg-preview.png",Real Madrid TV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Yqz0kRMw/1771427853431-removebg-preview.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 
