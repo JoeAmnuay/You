@@ -62,8 +62,7 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",Mono29
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
 #EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/hbo.m3u8
@@ -134,6 +133,8 @@ http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGB2pA7hcsQ6BaWYgQKeist-p0-lqGid26g&usqp=CAU",Movie
 #EXTVLCOPT:http-referrer=https://livesod365.com/
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png",Mono29
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="หนังออนไลน์" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",true4U
 #EXTVLCOPT:http-referrer=https://iptv36.vercel.app/
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
