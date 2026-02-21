@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="Digital TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
+#EXTINF:-1 tvg-chno="36" tvg-id="iptv36.pptv" group-title="DIGITAL TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
 https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1771676402&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=9NHGX4CAiSS_3NB92fsW_g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png"group-title="DIGITAL TV",3HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
